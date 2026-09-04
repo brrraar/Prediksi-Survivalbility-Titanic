@@ -1,4 +1,4 @@
-# Requirements for Data Analysis Project
+# Kebutuhan untuk Data Analysis
 # Python 3.11
 
 pandas==2.2.2
